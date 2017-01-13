@@ -9,7 +9,6 @@ License
 
 Copyright (c) 2016 Data Science Institute, Imperial College London.  All rights reserved.
 
-                                 Private License
                                     Oct 2016
 
 Contact
